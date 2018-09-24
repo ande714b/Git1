@@ -11,7 +11,7 @@ namespace Git1
         static void Main(string[] args)
         {
             Console.WriteLine("hello git1 ænndret på pc2");
-            Console.WriteLine("ny ændring på pc2");
+            Console.WriteLine("ny ændring på pc2 hej");
             Console.ReadLine();
 
         }
